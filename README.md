@@ -1,4 +1,3 @@
-
 ![Logo](https://i.imgur.com/e6qhrJr.png)
 
 
@@ -21,6 +20,13 @@ Trending on DexScreener is getting in the spotlight of stubfund and bloggers. Op
 
 We also work with other popular platforms: **Coingecko, CoinMarketCap, DexTools**.
 
+
+
+## DexScreener Votes 🚀🔥💩🚩
+
+![DexScreener Votes](https://i.imgur.com/LkaEg2a.png)
+
+We also do **votes (reactions) on DexScreener**. Votes on dexscreener increase investor attention to your project, for orders and cost information **please contact https://t.me/AdsW3lab**
 
 
 ## 💎 Benefits work with W3Lab:
